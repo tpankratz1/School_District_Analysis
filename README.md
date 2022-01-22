@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview
-The school board has notified school leadership that the original data file used for a recent analysis of the school district shows evidence of academic dishonesty. Reading and math grades for Thomas High School ninth graders appear to have been changed. The school board does not know how far the academic dishonesty extends, so they want to ensure that state-testing standards are upheld and are seeking help. School leadership has asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data the same. Once the math and reading scores have been replaced, school leadership wants to repeat the school district analysis that was done earlier and would like a written report, describing how the changes to the Thomas High School ninth grade data affected the overall analysis.
+The school board recently notified school leadership that the original data file used for a recent analysis of the school district showed evidence of academic dishonesty. Reading and math grades for Thomas High School ninth graders appeared to have been changed. The school board didn't know how far the academic dishonesty extended, so they wanted to ensure that state-testing standards were upheld and sought help. School leadership asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data the same. Once the math and reading scores have been replaced, school leadership wants to repeat the school district analysis that was done earlier and would like a written report, describing how the changes to the Thomas High School ninth grade data affected the overall analysis.
 
 
 ## Results
