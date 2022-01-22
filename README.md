@@ -53,7 +53,7 @@ The repeat of the analysis of school district data did reveal some effects from 
 
   - **Scores by School Spending**
 
-    There were slight fluctuations in the scores and percentages within the $630-644 Spending Range(Per Student), which is where Thomas High School fits. (see *Scores by School Spending DataFrames*, below)
+    There were slight fluctuations in the scores and percentages within the $630-644 Spending Range (Per Student), which is where Thomas High School fits. (see *Scores by School Spending DataFrames*, below)
     ##### *Original Scores by School Spending DataFrame*
     ![Code example of how county data was obtained.](./Resources/Scores_By_School_Spending_orig.png)
     
