@@ -34,7 +34,7 @@ The repeat of the analysis of school district data did reveal some effects from 
     ##### *New School Performance DataFrame*
     ![Code example of how county data was obtained.](./Resources/School_Performance_new.png)
 
-- **Effects on the following, as a result of replacing the ninth-grade scores:**
+- **Effects on the following areas, as a result of replacing the ninth-grade scores:**
   - **Math and Reading Scores by Grade**
 
     **Math:** The only affect was on the Thomas High School 9th grade Math Scores, which  were completely removed (NaN). (see *Math Scores by Grade DataFrames*, below)
